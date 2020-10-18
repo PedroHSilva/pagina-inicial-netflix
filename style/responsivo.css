@@ -1,0 +1,7 @@
+@media screen and (max-width:600px) {
+    header .container {
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 8px;
+    }
+}
